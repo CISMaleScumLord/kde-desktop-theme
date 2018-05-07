@@ -1,0 +1,10 @@
+#!/bin/bash
+
+killall conky
+killall yakuake
+
+yakuake &
+
+cd ~/.conky/
+conky -d -x70 -y10 -c conkyrc-hd
+cd ~

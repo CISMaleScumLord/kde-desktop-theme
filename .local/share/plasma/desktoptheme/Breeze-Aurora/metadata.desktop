@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Another Breath
+Name=Breeze-Aurora
+X-KDE-PluginInfo-Author=CISMaleScumLord
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL version 3
+X-KDE-PluginInfo-Name=Breeeze-Aurora
+X-KDE-PluginInfo-Version=0.2.9
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Breath
+defaultWidth=1920
